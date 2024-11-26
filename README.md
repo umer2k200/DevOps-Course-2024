@@ -60,19 +60,19 @@ The blog includes a step-by-step example for setting up a GitHub Actions workflo
 
 ## Projects
 - ### Portfolio
-    **[Github](https://github.com/umer2k200/Portfolio-React)**
-    **[Deployed App](https://portfolio-react-navy-pi.vercel.app/)**
+    - **[Github](https://github.com/umer2k200/Portfolio-React)**
+    - **[Deployed App](https://portfolio-react-navy-pi.vercel.app/)**
 - ### FitFlex
-    **[Github](https://github.com/umer2k200/FItFlex.git)**
-    **[Deployed App](https://fit-club-react-alpha.vercel.app/)**
+    - **[Github](https://github.com/umer2k200/FItFlex.git)**
+    - **[Deployed App](https://fit-club-react-alpha.vercel.app/)**
 - ### TripTide
-    **[Github](https://github.com/umer2k200/TripTide.git)**
-    **[Deployed App](https://trip-tide-vq6s.vercel.app/)**
+    - **[Github](https://github.com/umer2k200/TripTide.git)**
+    - **[Deployed App](https://trip-tide-vq6s.vercel.app/)**
 - ### Task Manager
-    **[Github](https://github.com/umer2k200/Task-Manager.git)**
-    **[Deployed App](https://taskmanager-cwywnzu37-umer2k200s-projects.vercel.app/)**
+    - **[Github](https://github.com/umer2k200/Task-Manager.git)**
+    - **[Deployed App](https://taskmanager-cwywnzu37-umer2k200s-projects.vercel.app/)**
 - ### Campus Bites
-    **[Github](https://github.com/umer2k200/Campus-Bites.git)**
+    - **[Github](https://github.com/umer2k200/Campus-Bites.git)**
 
 ## Contacts
 
@@ -90,7 +90,7 @@ The blog includes a step-by-step example for setting up a GitHub Actions workflo
   Get a glimpse of my accomplishments:  
   [Visit LinkedIn Profile](www.linkedin.com/in/muhammad-umer-zeeshan-365ab3284)
 
-- **Email**
+- **Email**:
   Contact me through this email:
   [umarzeeshan709@gmail.com](umarzeeshan709@gmail.com)
 
