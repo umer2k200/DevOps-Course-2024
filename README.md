@@ -3,8 +3,8 @@
 ## Hello there! I'm Muhammad Umer Zeeshan
 Welcome! Here, you can find links to my blog posts, and ways to connect with me.
 
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@umarzeeshan709)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/muhammad-umer-zeeshan-365ab3284)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@khalidhamza410)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-umer-zeeshan-365ab3284/)
 
 This repository contains a detailed walkthrough of the concepts and technologies I learned during the **DevOps Course FALL-2024**, taught by **@Saim Safdar**.
 Please feel free to explore the materials and projects that i have completed in order to gain a better understanding of my DevOps experience.
