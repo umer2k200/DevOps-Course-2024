@@ -64,18 +64,26 @@ The blog includes a step-by-step example for setting up a GitHub Actions workflo
     - **[Github](https://github.com/umer2k200/Portfolio-React)**
     - **[Deployed App](https://portfolio-react-navy-pi.vercel.app/)**
 - ### FitFlex
+    - **Description**: 
+        A MERN stack-based Fitness App offering personalized workout plans, real-time progress tracking, and a supportive community to help users achieve their fitness goals. It features an intuitive interface and a platform for sharing success stories and feedback.
     - **Technologies**: React, Express, Node.js, MongoDB
     - **[Github](https://github.com/umer2k200/FItFlex.git)**
     - **[Deployed App](https://fit-club-react-alpha.vercel.app/)**
 - ### TripTide
+    - **Description**: 
+        A React-based travel planning platform offering tailored packages, easy navigation, and real-time deals. Built with modern web technologies, it ensures a seamless and enjoyable user experience.
     - **Technologies**: React, Node.js
     - **[Github](https://github.com/umer2k200/TripTide.git)**
     - **[Deployed App](https://trip-tide-vq6s.vercel.app/)**
 - ### Task Manager
+    - **Description**:
+        A simple yet significant milestone, I’ve built a basic task manager app that allows users to add and complete daily tasks, marking progress in my mobile app development journey.
     - **Technologies**: React Native, Javascript
     - **[Github](https://github.com/umer2k200/Task-Manager.git)**
     - **[Deployed App](https://taskmanager-cwywnzu37-umer2k200s-projects.vercel.app/)**
 - ### Campus Bites
+    - **Description**:
+        A food order application designed for university café stores to streamline order management and enhance efficiency.
     - **Technologies**: C#, .NET framework
     - **[Github](https://github.com/umer2k200/Campus-Bites.git)**
 
