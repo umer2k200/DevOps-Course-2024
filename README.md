@@ -60,18 +60,23 @@ The blog includes a step-by-step example for setting up a GitHub Actions workflo
 
 ## Projects
 - ### Portfolio
+    - **Technologies**: React
     - **[Github](https://github.com/umer2k200/Portfolio-React)**
     - **[Deployed App](https://portfolio-react-navy-pi.vercel.app/)**
 - ### FitFlex
+    - **Technologies**: React, Express, Node.js, MongoDB
     - **[Github](https://github.com/umer2k200/FItFlex.git)**
     - **[Deployed App](https://fit-club-react-alpha.vercel.app/)**
 - ### TripTide
+    - **Technologies**: React, Node.js
     - **[Github](https://github.com/umer2k200/TripTide.git)**
     - **[Deployed App](https://trip-tide-vq6s.vercel.app/)**
 - ### Task Manager
+    - **Technologies**: React Native, Javascript
     - **[Github](https://github.com/umer2k200/Task-Manager.git)**
     - **[Deployed App](https://taskmanager-cwywnzu37-umer2k200s-projects.vercel.app/)**
 - ### Campus Bites
+    - **Technologies**: C#, .NET framework
     - **[Github](https://github.com/umer2k200/Campus-Bites.git)**
 
 ## Contacts
